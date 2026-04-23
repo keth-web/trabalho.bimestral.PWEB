@@ -8,4 +8,4 @@ Kethilly: As tarefas são armazenadas em memória e possuem três atributos prin
 ---------------------------
 Uso de GitHub
 ---------------------------
-Débora: Para o controle de versão, foram utilizadas branches para separar o trabalho de cada colaborador. Cada integrante criou sua própria branch, realizou alterações no projeto e efetuou commits. Ao final, as mudanças foram integradas à branch principal (main) por meio de merge, consolidando o trabalho em equipe.
+Débora: Ao finalizarmos o trabalho no Visual Studio Code, subimnos os arquivos para o Git. Para o controle de versão, foram utilizadas branches para descrever o trabalho aqui no arquivo README. Cada integrante criou sua própria branch, realizou alterações neste arquivo e efetuou commits. Ao final, as mudanças foram integradas à branch principal (main) por meio de merge, consolidando o trabalho em equipe.
